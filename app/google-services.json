@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "338450237839",
+    "firebase_url": "https://newsapp-d95aa.firebaseio.com",
+    "project_id": "newsapp-d95aa",
+    "storage_bucket": "newsapp-d95aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338450237839:android:8a4e865bb7bdb09b14e3fa",
+        "android_client_info": {
+          "package_name": "com.appyhigh.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338450237839-i2ed4hrmo059la0131qfm6r5ft2b18id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1OQLlZqype3quq2cnCfRcX4N5YLQHA7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338450237839-i2ed4hrmo059la0131qfm6r5ft2b18id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1468710847656510~4373341819"
+    }
+  ],
+  "configuration_version": "1"
+}
